@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm John DeCicco
 
-<!--
-**jadecicco/jadecicco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Statistics graduate building a portfolio in data analytics, business analytics, and applied data science. My work focuses on turning data into clear insights through statistical analysis, data visualization, machine learning, and interactive tools.
 
-Here are some ideas to get you started:
+## Career Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Data Analytics
+* Applied Data Science
+
+## Technical Skills
+
+**Languages:** Python, R, SQL
+**Data Analysis:** pandas, NumPy, tidyverse, dplyr, ggplot2
+**Statistics & Modeling:** regression, hypothesis testing, clustering, dimensionality reduction, statistical modeling
+**Visualization & BI:** Power BI, Excel, matplotlib, ggplot2
+**Tools:** GitHub, RStudio, Jupyter Notebook, Quarto, R Markdown, Shiny
+
+## Featured Projects
+
+### Music Clustering Analysis
+
+Unsupervised machine learning project using clustering and dimensionality reduction to identify patterns in music data.
+
+### Student Mental Health Analysis
+
+Exploratory data analysis project examining relationships between academic, lifestyle, and mental health factors among students.
+
+### Data Anonymization Shiny App
+
+Interactive R Shiny application focused on data privacy, anonymization techniques, and responsible data handling.
+
+### Pokémon Battle Simulator
+
+Text-based R programming project that simulates turn-based Pokémon battles using conditional logic, functions, and structured game mechanics.
+
+## Currently Building
+
+* A stronger SQL portfolio
+* Power BI dashboard projects
+
+## Contact
+
+* LinkedIn: www.linkedin.com/in/johndecicco
+* Portfolio: Coming soon
+
+
+
