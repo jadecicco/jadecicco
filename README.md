@@ -1,10 +1,14 @@
 # Hi, I'm John DeCicco
 
-I'm a Statistics graduate building a portfolio in data analytics, business analytics, and applied data science. My work focuses on turning data into clear insights through statistical analysis, data visualization, machine learning, and interactive tools.
+I'm a Statistics graduate building a portfolio in data analytics, business analytics, and applied data science. My projects focus on data cleaning, exploratory analysis, visualization, statistical modeling, machine learning, and interactive tools.
 
 ## Career Interests
 
 * Data Analytics
+* Business Analytics
+* Business Intelligence
+* Product Analytics
+* Research Analytics
 * Applied Data Science
 
 ## Technical Skills
@@ -17,31 +21,30 @@ I'm a Statistics graduate building a portfolio in data analytics, business analy
 
 ## Featured Projects
 
-### Music Clustering Analysis
+### [Data Anonymization Shiny App](https://github.com/jadecicco/data-anonymization-shiny-app)
 
-Unsupervised machine learning project using clustering and dimensionality reduction to identify patterns in music data.
+Interactive R Shiny application for applying basic anonymization techniques to CSV datasets.
 
-### Student Mental Health Analysis
+### [Music Clustering Analysis](https://github.com/jadecicco/music-clustering-analysis)
 
-Exploratory data analysis project examining relationships between academic, lifestyle, and mental health factors among students.
+Collaborative unsupervised machine learning project using clustering and dimensionality reduction to identify patterns in music data.
 
-### Data Anonymization Shiny App
+### [Student Mental Health Analysis](https://github.com/jadecicco/student-mental-health-analysis)
 
-Interactive R Shiny application focused on data privacy, anonymization techniques, and responsible data handling.
+Exploratory data analysis project examining relationships between student mental health, academic factors, and lifestyle variables.
 
-### Pokémon Battle Simulator
+### [Pokémon Battle Simulator](https://github.com/jadecicco/pokemon-battle-simulator)
 
-Text-based R programming project that simulates turn-based Pokémon battles using conditional logic, functions, and structured game mechanics.
+Text-based R programming project using functions, loops, conditionals, user input, and turn-based game mechanics.
 
 ## Currently Building
 
-* A stronger SQL portfolio
+* SQL portfolio projects
 * Power BI dashboard projects
+* Cleaner project documentation
+* A broader analytics portfolio combining Python, R, SQL, Excel, and BI tools
 
 ## Contact
 
 * LinkedIn: www.linkedin.com/in/johndecicco
 * Portfolio: Coming soon
-
-
-
