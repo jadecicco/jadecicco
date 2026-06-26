@@ -47,4 +47,3 @@ Text-based R programming project using functions, loops, conditionals, user inpu
 ## Contact
 
 * LinkedIn: www.linkedin.com/in/johndecicco
-* Portfolio: Coming soon
